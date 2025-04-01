@@ -112,3 +112,9 @@ static void Conversation()
     }
    
 }
+static void Main(string[] args)
+{
+    Greeting();
+    Introduction();
+    Conversation();
+}
